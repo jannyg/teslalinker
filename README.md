@@ -1,2 +1,2 @@
 # teslalinker
-Linker til Norske strømmetjenester
+Personlig samling av linker til Norske strømmetjenester
